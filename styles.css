@@ -365,6 +365,13 @@ h1 {
     transition: background-color 0.3s ease;
 }
 
+.about-content img {
+    max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;
+}
+
 .contact-form button.cta-button:hover {
     background-color: #00994C;
 }
